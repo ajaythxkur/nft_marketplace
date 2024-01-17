@@ -1,0 +1,18 @@
+[package]
+
+name = "nft_marketplace"
+version = "0.0.1"
+author = []
+
+[addresses]
+hello_market = "_" //address of the module that contains marketplace
+std = "0x1" //standard library
+aptos_framework = "0x1"
+aptos_std = "0x1"
+aptos_token = "0x3"
+
+[dependencies]
+
+AptosFramework = _
+AptosStdlib = _
+AptosToken = _
